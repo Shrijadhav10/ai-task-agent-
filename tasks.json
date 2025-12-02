@@ -1,0 +1,14 @@
+[
+  {
+    "task": "6km run",
+    "completed": true
+  },
+  {
+    "task": "Learn the AI",
+    "completed": false
+  },
+  {
+    "task": "Add SNS in Lambda task",
+    "completed": false
+  }
+]

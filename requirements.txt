@@ -1,0 +1,5 @@
+groq
+langchain
+langgraph
+python-dotenv
+gradio
